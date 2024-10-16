@@ -1,0 +1,11 @@
+secrets.ini
+__pycache__
+.venv
+patron_load_all/logs
+patron_load_all/old
+patron_load_all/libcard*
+patron_load_all/^IMP01.txt
+patron_load_all/old-libcard*
+patron_load_grad/logs
+patron_load_grad/^IMP01.txt
+patron_load_grad/old-libcard*
